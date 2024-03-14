@@ -1,0 +1,23 @@
+{
+  "accountManagement": "Account management",
+  "addNewAccount": "Add new account",
+  "editNewAccount": "Edit new account",
+  "settingAccountOption": "Account setting",
+  "logoutOption": "Logout",
+  "backToHome": "Back to home",
+  "permissionDenied": "permission Denied",
+  "contactAdmin": "Contact Admin",
+  "home": "Home",
+  "errorPage": "Error Page",
+  "dashboard": "Dashboard",
+  "setting": "Setting",
+  "category": "Category",
+  "notification": "Notification",
+  "theme": "Theme",
+  "themeDark": "Dark mode",
+  "themeLight": "Light mode",
+  "demo": "Demo",
+  "textToVoice": "Text to voice",
+  "adsLayout": "Ads Layout",
+  "sidebarFull": "Sidebar Full layout"
+}
