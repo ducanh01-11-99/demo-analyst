@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React together with me
+          Vợ của bố bé mỡ
         </a>
       </header>
     </div>
