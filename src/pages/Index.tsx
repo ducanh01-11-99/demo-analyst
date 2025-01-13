@@ -57,7 +57,7 @@ const Index = () => {
       {/* Navigation */}
       <Header className="bg-white border-b border-gray-200 fixed w-full z-50">
         <nav className="container mx-auto flex justify-between items-center h-full">
-          <div className="text-2xl font-bold">FASHION STORE</div>
+          <div className="text-2xl font-bold">Nhà may Bùi Mận</div>
           <div className="hidden md:flex space-x-8">
             <a href="#home" className="hover:text-gold transition-colors">Trang chủ</a>
             <a href="#products" className="hover:text-gold transition-colors">Sản phẩm</a>
@@ -161,7 +161,7 @@ const Index = () => {
         <div className="container mx-auto py-12">
           <Row gutter={[48, 32]}>
             <Col xs={24} md={8}>
-              <Title level={3} className="text-white mb-6">FASHION STORE</Title>
+              <Title level={3} className="text-white mb-6">Nhà may Bùi Mận</Title>
               <Paragraph className="text-gray-400 mb-6">
                 Chúng tôi mang đến những sản phẩm chất lượng và dịch vụ tốt nhất cho khách hàng.
               </Paragraph>
@@ -190,9 +190,9 @@ const Index = () => {
             <Col xs={24} md={8}>
               <Title level={4} className="text-white mb-6">Giờ mở cửa</Title>
               <div className="space-y-4 text-gray-400">
-                <p>Thứ 2 - Thứ 6: 9:00 - 21:00</p>
-                <p>Thứ 7: 9:00 - 22:00</p>
-                <p>Chủ nhật: 10:00 - 21:00</p>
+                <p>Thứ 2 - Thứ 6: 8:00 - 19:00</p>
+                <p>Thứ 7: 8:00 - 20:00</p>
+                <p>Chủ nhật: 8:00 - 21:00</p>
               </div>
             </Col>
           </Row>
